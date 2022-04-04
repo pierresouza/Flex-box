@@ -1,0 +1,38 @@
+body {
+  height: 100vh;
+  border: 2px solid purple;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  border: 1px solid black;
+  height: 75vh;
+  align-items: center;
+  display: flex;
+}
+
+.caixa1 {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: rgb(182, 149, 106);
+}
+.caixa2 {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: grey;
+}
+.caixa3 {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: orange;
+}
+.caixa4 {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}

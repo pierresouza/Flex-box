@@ -1,0 +1,50 @@
+body {
+  /* border: 2px solid purple; */
+  height: 100vh;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.container {
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.caixa1 {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: grey;
+}
+.caixa2 {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: darksalmon;
+}
+.caixa3 {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: orange;
+}
+
+#divisor {
+  /* border: 1px solid black; */
+  width: 40%;
+  display: flex;
+}
+.container1 {
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.caixa4 {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: rgb(224, 51, 51);
+}

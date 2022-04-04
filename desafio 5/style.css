@@ -1,0 +1,50 @@
+body {
+  height: 100vh;
+  /* border: 2px solid purple; */
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.container {
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: space-between;
+  width: 50vw;
+  align-self: flex-start;
+  /* background-color: aqua; */
+}
+.caixa1 {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: darksalmon;
+}
+
+.caixa2 {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: grey;
+}
+.container1 {
+  /* border: 1px solid black; */
+  display: flex;
+  align-self: flex-end;
+  width: 50vw;
+  justify-content: space-between;
+}
+
+.caixa3 {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: rgb(190, 165, 106);
+}
+
+.caixa4 {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: orange;
+}

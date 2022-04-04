@@ -1,0 +1,47 @@
+.container {
+  /* border: 1px solid black; */
+  display: flex;
+  height: 40vh;
+  justify-content: center;
+}
+
+.container2 {
+  /* border: 1px solid black; */
+  display: flex;
+  height: 45vh;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.caixa1 {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+}
+.caixa2 {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(167, 135, 97);
+}
+
+.caixa3 {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.container3 {
+  /* border: 1px solid black; */
+  display: flex;
+  height: 30vh;
+  justify-content: center;
+}
+
+.caixa4 {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+}
